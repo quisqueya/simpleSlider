@@ -18,7 +18,8 @@ import "./PageSliderMgr.css";
 // git push heroku master
 // heroku open
 
-
+// https://github.com/quisqueya/simpleSlider.git
+// https://murmuring-coast-84043.herokuapp.com/
 
 class App extends Component {
 
